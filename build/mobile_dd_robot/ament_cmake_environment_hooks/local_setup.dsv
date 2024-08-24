@@ -1,0 +1,2 @@
+source;share/mobile_dd_robot/environment/ament_prefix_path.sh
+source;share/mobile_dd_robot/environment/path.sh

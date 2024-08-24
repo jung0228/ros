@@ -1,0 +1,2 @@
+Invoking command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot': /usr/bin/cmake --build /home/junghw/ws_ddmobile/build/mobile_dd_robot -- -j6 -l6
+Invoked command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot' returned '2': /usr/bin/cmake --build /home/junghw/ws_ddmobile/build/mobile_dd_robot -- -j6 -l6

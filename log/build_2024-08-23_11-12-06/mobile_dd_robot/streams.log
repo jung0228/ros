@@ -1,0 +1,35 @@
+[0.010s] Invoking command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/junghw/ws_ddmobile/build/mobile_dd_robot -- -j6 -l6
+[0.031s] -- Found ament_cmake: 2.0.6 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.158s] -- Found ament_lint_auto: 0.14.4 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.219s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.219s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.220s] -- Added test 'lint_cmake' to check CMake code style
+[0.220s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.221s] -- Added test 'xmllint' to check XML markup files
+[0.222s] -- Configuring done
+[0.224s] -- Generating done
+[0.225s] -- Build files have been written to: /home/junghw/ws_ddmobile/build/mobile_dd_robot
+[0.245s] Invoked command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/junghw/ws_ddmobile/build/mobile_dd_robot -- -j6 -l6
+[0.273s] Invoking command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/junghw/ws_ddmobile/build/mobile_dd_robot
+[0.280s] -- Install configuration: ""
+[0.280s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/launch
+[0.280s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/launch/gazebo_model.launch.py
+[0.280s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/model
+[0.280s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/model/robot.gazebo
+[0.280s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/model/robot.xacro
+[0.280s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/ament_index/resource_index/package_run_dependencies/mobile_dd_robot
+[0.280s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/ament_index/resource_index/parent_prefix_path/mobile_dd_robot
+[0.280s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/environment/ament_prefix_path.sh
+[0.280s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/environment/ament_prefix_path.dsv
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/environment/path.sh
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/environment/path.dsv
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/local_setup.bash
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/local_setup.sh
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/local_setup.zsh
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/local_setup.dsv
+[0.281s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/package.dsv
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/ament_index/resource_index/packages/mobile_dd_robot
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/cmake/mobile_dd_robotConfig.cmake
+[0.281s] -- Up-to-date: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/cmake/mobile_dd_robotConfig-version.cmake
+[0.281s] -- Installing: /home/junghw/ws_ddmobile/install/mobile_dd_robot/share/mobile_dd_robot/package.xml
+[0.283s] Invoked command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/junghw/ws_ddmobile/build/mobile_dd_robot

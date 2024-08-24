@@ -1,0 +1,4 @@
+Invoking command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/junghw/ws_ddmobile/build/mobile_dd_robot -- -j6 -l6
+Invoked command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/junghw/ws_ddmobile/build/mobile_dd_robot -- -j6 -l6
+Invoking command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/junghw/ws_ddmobile/build/mobile_dd_robot
+Invoked command in '/home/junghw/ws_ddmobile/build/mobile_dd_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/junghw/ws_ddmobile/build/mobile_dd_robot
